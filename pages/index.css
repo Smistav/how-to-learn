@@ -1,6 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/_link/page_link.css); /* плавная прозрачность ссылок главного блока */
+@import url(../blocks/page/__link/page__link.css); /* плавная прозрачность ссылок главного блока */
 @import url(../blocks/rotation/rotation.css); /* Поворачиваем блоки */
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/setion-subtitle/section-subtitle.css);
@@ -80,4 +80,4 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
-@import url(../blocks/column/__social-icon/column__social-icon.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
