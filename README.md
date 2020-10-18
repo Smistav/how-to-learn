@@ -12,9 +12,7 @@
 Особенности проекта 
 - Использовали внедрение видео ![video youtube](images/video.png)
 - Применили анимацию и получили магический Синий квадрат. Если долго на него смотреть то мальчик
-начинает учится лучше!![Blue-square-rotation](images/blue-square-rotation.gif)
+начинает учится лучше! ![Blue-square-rotation](images/blue-square-rotation.gif)
 
 Планируемые действия
 Изучить JS
-=======
-
