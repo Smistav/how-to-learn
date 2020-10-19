@@ -4,4 +4,6 @@
   height: 608px;
   margin: 0 48px 0 0;
   float: left;
+  object-fit: cover;
+  object-position: top;
 }
